@@ -1,0 +1,6 @@
+# Dirs
+.vs/
+out/
+
+# CMake files
+CMakeUserPresets.json
